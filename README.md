@@ -7,13 +7,14 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 ### Categories
 
 * [Papers](#papers)
+    * [Computer Vision](#computervision)
 * [Textbooks](#textbooks)
 
 ---
 
 ### Papers 
 
-#### 2023
+#### Computer Vision
 
 * [Practices and Applications of Convolutional Neural Network-Based Computer Vision Systems in Animal Farming: A Review](papers/liPracticesApplicationsConvolutional2021.md)
 
