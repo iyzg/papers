@@ -7,12 +7,17 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 ### Categories
 
 * [Papers](#papers)
+    * [Art](#art)
     * [Computer Vision](#cv)
 * [Textbooks](#textbooks)
 
 ---
 
 ### Papers 
+
+#### Art
+
+* [Machine Learning Education for Artists, Musicians, and Other Creative Practitioners](fiebrinkMachineLearningEducation2019.md)
 
 #### CV
 
