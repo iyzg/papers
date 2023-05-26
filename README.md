@@ -21,6 +21,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### CV
 
+* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](papers/carreiraQuoVadisAction2018.md)
 * [Practices and Applications of Convolutional Neural Network-Based Computer Vision Systems in Animal Farming: A Review](papers/liPracticesApplicationsConvolutional2021.md)
 
 ### Textbooks
