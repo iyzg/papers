@@ -21,6 +21,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### CV
 
+* [Development and evaluation of a method to detect broilers continuously walking around feeder as an indication of restricted feeding behaviors](papers/liDevelopmentEvaluationMethod2021.md)
 * [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](papers/xieRethinkingSpatiotemporalFeature2018.md)
 * [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](papers/carreiraQuoVadisAction2018.md)
 * [Practices and Applications of Convolutional Neural Network-Based Computer Vision Systems in Animal Farming: A Review](papers/liPracticesApplicationsConvolutional2021.md)
