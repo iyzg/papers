@@ -8,6 +8,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 * [Papers](#papers)
     * [Art](#art)
+    * [Artificial Intelligence](#ai)
     * [Computer Vision](#cv)
 * [Textbooks](#textbooks)
 
@@ -17,7 +18,11 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### Art
 
-* [Machine Learning Education for Artists, Musicians, and Other Creative Practitioners](fiebrinkMachineLearningEducation2019.md)
+* [Machine Learning Education for Artists, Musicians, and Other Creative Practitioners](papers/fiebrinkMachineLearningEducation2019.md)
+
+#### AI
+
+* [CocoNet: A deep neural network for mapping pixel coordinates to color values](papers/bricmanCocoNetDeepNeural2018.md)
 
 #### CV
 
