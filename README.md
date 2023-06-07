@@ -22,6 +22,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### AI
 
+* [The Curse of Recursion: Training on Generated Data Makes Models Forget](papers/shumailovCurseRecursionTraining2023.md)
 * [CocoNet: A deep neural network for mapping pixel coordinates to color values](papers/bricmanCocoNetDeepNeural2018.md)
 
 #### CV
