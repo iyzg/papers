@@ -22,11 +22,15 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### AI
 
+* [Path of Destruction: Learning an Iterative Level Generator Using a Small Dataset](papers/siperPathDestructionLearning2022.md)
+* [Learning Graph Cellular Automata](papers/grattarolaLearningGraphCellular2021.md)
 * [The Curse of Recursion: Training on Generated Data Makes Models Forget](papers/shumailovCurseRecursionTraining2023.md)
 * [CocoNet: A deep neural network for mapping pixel coordinates to color values](papers/bricmanCocoNetDeepNeural2018.md)
 
 #### CV
 
+* [Tracking floor eggs with machine vision in cage-free hen houses](papers/subediTrackingFloorEggs2023.md)
+* [Deep Image Prior](papers/ulyanovDeepImagePrior2020.md)
 * [Development and evaluation of a method to detect broilers continuously walking around feeder as an indication of restricted feeding behaviors](papers/liDevelopmentEvaluationMethod2021.md)
 * [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](papers/xieRethinkingSpatiotemporalFeature2018.md)
 * [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](papers/carreiraQuoVadisAction2018.md)
