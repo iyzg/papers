@@ -29,6 +29,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### CV
 
+* [Review: Automated techniques for monitoring the behaviour and welfare of broilers and laying hens: towards the goal of precision livestock farming](papers/liReviewAutomatedTechniques2020.md)
 * [Tracking floor eggs with machine vision in cage-free hen houses](papers/subediTrackingFloorEggs2023.md)
 * [Deep Image Prior](papers/ulyanovDeepImagePrior2020.md)
 * [Development and evaluation of a method to detect broilers continuously walking around feeder as an indication of restricted feeding behaviors](papers/liDevelopmentEvaluationMethod2021.md)
