@@ -22,6 +22,8 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### AI
 
+* [Fine-Tuning Language Models with Just Forward Passes](papers/malladiFineTuningLanguageModels2023.md)
+* [CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](papers/fransCLIPDrawExploringTexttoDrawing2021.md)
 * [Path of Destruction: Learning an Iterative Level Generator Using a Small Dataset](papers/siperPathDestructionLearning2022.md)
 * [Learning Graph Cellular Automata](papers/grattarolaLearningGraphCellular2021.md)
 * [The Curse of Recursion: Training on Generated Data Makes Models Forget](papers/shumailovCurseRecursionTraining2023.md)
@@ -29,6 +31,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### CV
 
+* [Learning non-maximum suppression](papers/hosangLearningNonmaximumSuppression2017.md)
 * [Review: Automated techniques for monitoring the behaviour and welfare of broilers and laying hens: towards the goal of precision livestock farming](papers/liReviewAutomatedTechniques2020.md)
 * [Tracking floor eggs with machine vision in cage-free hen houses](papers/subediTrackingFloorEggs2023.md)
 * [Deep Image Prior](papers/ulyanovDeepImagePrior2020.md)

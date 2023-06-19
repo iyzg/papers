@@ -1,0 +1,9 @@
+# OMNI: Open-endedness via Models of human Notions of Interestingness
+
+Primary contribution of the paper is proposing a novel way to escape falling into Goodhart's Law for open-endedness research. If you optimize for some sort metric, even if it is to measure novelty and interestingness, this measure will eventually fail to be good since it is being optimized. By having LLMs decide what tasks to do, then we don't really have a *set metric* that we're optimizing against.
+
+By having LLMs decide what tasks to focus on, the authors are able to show that the model is able to focus on *learnable* and *interesting* problems. Compared against baseline methods like uniform sampling, it's able to focus on the tasks that are most important and do those at the right time.
+
+For future work, they propose using foundation models to replace the *hard coded* aspects of the RL pipeline. For instance, don't have a reward from the environment (this only works in simple worlds), and instead have a video foundation model decide the reward based on how well completed a task was. I think the largest open question from this is how do you generate open-ended tasks for the model to solve? This seems like it'd need some sort of world model where you can iteratively decide what are the most promising tasks are and to formulate new ones.
+
+What this paper means for me is that we're increasingly moving away from hard mathematics in these systems and towards more abstract systems. Rather than a mathematical formulation of interestingness (k-nearest neighbors), we're using LLMs to try and capture the ineffable. This seems like a major switchover point and something to really focus my research on.
