@@ -8,7 +8,7 @@ They note that an issue with how models are trained is that they **aren't punish
 
 To note, their model works *only on detections* which means that it takes in no image features. It isn't so much that image features are bad, but that they wanted to show it was possible to train a NMS replacement with just detections.
 
-Biggest improvements were a model architecture that was specifically designed to deal with overlap (they use a Hungarian algorithm to pair detections then) and allow detections to "talk to one another".
+Biggest improvements were a model architecture that was specifically designed to deal with overlap (they use a Hungarian algorithm to pair detections then) and allow detections to "talk to one another". Basically a sort of attention where detections are able to talk to each other to collaborate on which ones are the most important.
 
 > Q: Would something like attention perform better for areas like this? Have vision foundation models entirely replaced this sort of research?
 

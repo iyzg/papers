@@ -22,6 +22,11 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### AI
 
+* [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](papers/veselovskyArtificialArtificialArtificial2023.md)
+* [The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence](papers/brynjolfssonTuringTrapPromise2022.md)
+* [Controllable Path of Destruction](papers/siperControllablePathDestruction2023.md)
+* [CLIPPO: Image-and-Language Understanding from Pixels Only](papers/tschannenCLIPPOImageandLanguageUnderstanding2023.md)
+* [People, not search-engine algorithms, choose unreliable or partisan news](papers/mustafarajPeopleNotSearchengine2023.md)
 * [Fine-Tuning Language Models with Just Forward Passes](papers/malladiFineTuningLanguageModels2023.md)
 * [CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](papers/fransCLIPDrawExploringTexttoDrawing2021.md)
 * [Path of Destruction: Learning an Iterative Level Generator Using a Small Dataset](papers/siperPathDestructionLearning2022.md)
