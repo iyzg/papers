@@ -9,6 +9,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 * [Papers](#papers)
     * [Art](#art)
     * [Artificial Intelligence](#ai)
+    * [Biology](#bio)
     * [Computer Vision](#cv)
 * [Textbooks](#textbooks)
 
@@ -22,6 +23,7 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 
 #### AI
 
+* [Large Language Models Can Self-Improve](papers/huangLargeLanguageModels2022.md)
 * [Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](papers/veselovskyArtificialArtificialArtificial2023.md)
 * [The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence](papers/brynjolfssonTuringTrapPromise2022.md)
 * [Controllable Path of Destruction](papers/siperControllablePathDestruction2023.md)
@@ -33,6 +35,10 @@ Repository for storing my summaries, questions, and general notes surrounding pa
 * [Learning Graph Cellular Automata](papers/grattarolaLearningGraphCellular2021.md)
 * [The Curse of Recursion: Training on Generated Data Makes Models Forget](papers/shumailovCurseRecursionTraining2023.md)
 * [CocoNet: A deep neural network for mapping pixel coordinates to color values](papers/bricmanCocoNetDeepNeural2018.md)
+
+#### Bio
+
+* [Can large language models democratize access to dual-use biotechnology?](papers/soiceCanLargeLanguage2023.md)
 
 #### CV
 
